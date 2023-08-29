@@ -1,4 +1,4 @@
-package br.com.pattern.behavior.command;
+package br.com.pattern.behavior.command.commands;
 
 public class VoltarCanal implements Command {
 
